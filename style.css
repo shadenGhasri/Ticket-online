@@ -1,3 +1,23 @@
 body{
+    background: url(./img/df6edd7aa988520a40f2ede003f35a58.jpg) no-repeat ;
+    background-size: cover;
+}
+.container{
+    background-color: rgba(218, 2, 153, 0.2);
+    margin-top: 100px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-radius: 5px;
+}
+.frame{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.iput-box{
+    width: 80%;
+    height: 45px;
+    border-radius: 5px;
+    padding-left: 4px;
     
 }
