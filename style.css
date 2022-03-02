@@ -1,6 +1,6 @@
 body{
     background: url(./img/df6edd7aa988520a40f2ede003f35a58.jpg) no-repeat ;
-    background-size: cover;
+    background-size: 1560px 683px;
 }
 .container{
     background-color: rgba(218, 2, 153, 0.2);
@@ -18,6 +18,5 @@ body{
     width: 80%;
     height: 45px;
     border-radius: 5px;
-    padding-left: 4px;
-    
+    padding-left: 4px; 
 }
